@@ -1,0 +1,5 @@
+# Only so GitHub Pages renders index.md as a page. The format itself needs no build step.
+title: The gNVC card format
+description: An open, hand-writable format for Nonviolent Communication cards.
+theme: jekyll-theme-cayman
+exclude: [README.md, templates]
