@@ -2,4 +2,6 @@
 title: The gNVC card format
 description: An open, hand-writable format for Nonviolent Communication cards.
 theme: jekyll-theme-cayman
-exclude: [README.md, templates]
+# README.md is the repository's front page, not a page of the spec. The templates are
+# copied through as files, so they can be downloaded and filled in.
+exclude: [README.md]
